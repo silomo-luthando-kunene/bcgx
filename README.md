@@ -1,5 +1,6 @@
 # BCG X Virtual Job Sim - Data Science Job Simulation
 **Role:** Data Science Consultant 
+
 Completed through The Forage (https://www.theforage.com/)
 
 ## 🎯 Project Overview
