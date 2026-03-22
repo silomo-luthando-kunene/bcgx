@@ -22,7 +22,7 @@ Completed through The Forage (https://www.theforage.com/)
   
 ## 📈 Key Tasks
 1. **Task 1: Data Discovery** - Analyzed client datasets to identify trends.
-2. **Task 2: Prototyping** - Developed a model achieving a [X]% accuracy rate.
+2. **Task 2: Prototyping** - Developed a model.
 3. **Task 3: Insights** - Translated technical findings into a slide deck for stakeholders.
 
 ## **Conclusion**
